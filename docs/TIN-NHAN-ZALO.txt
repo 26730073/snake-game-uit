@@ -1,0 +1,94 @@
+==========================================================
+TIN NHẮN 1 — GỬI VÀO NHÓM ZALO
+==========================================================
+
+🐍 ĐỒ ÁN SNAKE GAME — REPO ĐÃ TẠO XONG
+
+Link repo: https://github.com/tronghv77/snake-game-uit
+
+Mọi người làm giúp mình 4 việc sau trong hôm nay nha:
+
+1️⃣ TẠO TÀI KHOẢN GITHUB
+Vào https://github.com/signup
+⚠️ Quan trọng: đăng ký bằng ĐÚNG email dưới đây, để commit ghi nhận đúng tên từng người khi thầy/cô chấm điểm:
+• Trọng: tronghv77@gmail.com
+• Diễm: lekieudiem368@gmail.com
+• Tín: ductin0925@gmail.com
+
+2️⃣ NHẮN LẠI USERNAME GITHUB CHO MÌNH
+Tạo xong thì gửi username vào nhóm (dạng @tenban). Mình cần username mới mời vào repo được.
+
+3️⃣ CÀI 3 PHẦN MỀM
+• Git: https://git-scm.com/downloads
+• Python 3.10 trở lên: https://www.python.org/downloads
+  ⚠️ Lúc cài NHỚ TICK ô "Add Python to PATH", quên là chạy không được
+• VS Code: https://code.visualstudio.com
+
+4️⃣ CHẠY THỬ GAME
+Sau khi mình mời và mọi người bấm Accept, mở PowerShell gõ lần lượt:
+
+git clone https://github.com/tronghv77/snake-game-uit.git
+cd snake-game-uit
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+python main.py
+
+Hiện ra cửa sổ đen có lưới ô vuông + chữ SNAKE GAME là ngon. Chụp màn hình gửi nhóm nha.
+
+Kẹt chỗ nào cứ chụp màn hình gửi vào nhóm, đừng ngồi im 😄
+
+
+==========================================================
+TIN NHẮN 2 — GỬI TIẾP SAU
+==========================================================
+
+📋 PHÂN CÔNG CÔNG VIỆC
+
+Mỗi người làm file riêng để không đụng code của nhau:
+
+👤 TRỌNG (26730077) — file src/snake/game.py
+Vòng lặp game, phím điều khiển, va chạm, tính điểm, quản lý repo
+
+👤 DIỄM (26730010) — file src/snake/snake.py và food.py
+Đối tượng con rắn (di chuyển, dài ra), sinh mồi ngẫu nhiên
+
+👤 TÍN (26730073) — file src/snake/ui.py và config.py
+Vẽ rắn, vẽ mồi, điểm số, menu, màn hình game over, âm thanh, màu sắc
+
+Code hiện tại đã có sẵn khung, mỗi hàm có comment TODO ghi rõ cần làm gì. Mọi người chỉ việc thay chỗ TODO bằng code thật.
+
+Danh sách việc chi tiết mình đã tạo sẵn trên GitHub:
+https://github.com/tronghv77/snake-game-uit/issues
+
+Nhận việc nào thì vào issue đó bấm Assign cho mình, làm xong thì đóng issue lại.
+
+
+==========================================================
+TIN NHẮN 3 — GỬI TIẾP SAU
+==========================================================
+
+⚠️ 3 QUY TẮC BẮT BUỘC KHI CODE
+
+1. KHÔNG code trực tiếp trên nhánh main
+Mỗi lần làm việc gì thì tạo nhánh mới:
+
+git checkout main
+git pull origin main
+git checkout -b feat/ten-viec-minh-lam
+
+Code xong thì:
+git add .
+git commit -m "feat: mô tả ngắn việc vừa làm"
+git push -u origin feat/ten-viec-minh-lam
+
+Rồi lên GitHub bấm nút vàng "Compare & pull request", nhắn nhóm nhờ người khác duyệt.
+
+2. Trước khi code luôn chạy "git pull origin main" để lấy code mới nhất
+
+3. Chỉ sửa file của mình. Cần sửa file người khác thì nhắn cho người đó trước.
+
+📖 Hướng dẫn Git đầy đủ cho người mới, có cả cách xử lý lỗi hay gặp:
+https://github.com/tronghv77/snake-game-uit/blob/main/docs/HUONG-DAN-GIT.md
+
+Cả nhóm cố gắng commit đều đặn 2-3 lần/tuần để thầy/cô thấy được đóng góp của từng người nha 💪
