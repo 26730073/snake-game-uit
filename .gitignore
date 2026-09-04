@@ -1,0 +1,33 @@
+# Môi trường ảo Python
+.venv/
+venv/
+env/
+
+# File biên dịch Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+
+# Kiểm thử
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# File dữ liệu sinh ra lúc chạy game
+highscore.json
+*.log
