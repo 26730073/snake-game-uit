@@ -10,6 +10,10 @@
 
 ---
 
+> 📄 Tài liệu này chỉ là bảng tóm tắt. Mô tả chi tiết từng đầu việc — gồm mục tiêu,
+> gợi ý thực hiện, cạm bẫy thường gặp và tiêu chí nghiệm thu — nằm ở
+> [MO-TA-CONG-VIEC.md](MO-TA-CONG-VIEC.md).
+
 ## Chia việc theo file
 
 Mỗi người làm trên file riêng để hạn chế đụng độ khi merge code.

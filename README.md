@@ -13,7 +13,8 @@ Game rắn săn mồi kinh điển, viết bằng **Python + Pygame**.
 | 2 | Lê Kiều Diễm | 26730010 | Thành viên | Đối tượng rắn, mồi, xử lý di chuyển |
 | 3 | Đặng Đức Tín | 26730073 | Thành viên | Giao diện, menu, âm thanh, cấu hình |
 
-Chi tiết phân công: [docs/PHAN-CONG.md](docs/PHAN-CONG.md)
+Bảng phân công tóm tắt: [docs/PHAN-CONG.md](docs/PHAN-CONG.md)
+**Mô tả công việc chi tiết từng người: [docs/MO-TA-CONG-VIEC.md](docs/MO-TA-CONG-VIEC.md)**
 
 ---
 
