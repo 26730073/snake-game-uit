@@ -92,3 +92,67 @@ Rồi lên GitHub bấm nút vàng "Compare & pull request", nhắn nhóm nhờ 
 https://github.com/tronghv77/snake-game-uit/blob/main/docs/HUONG-DAN-GIT.md
 
 Cả nhóm cố gắng commit đều đặn 2-3 lần/tuần để thầy/cô thấy được đóng góp của từng người nha 💪
+
+
+==========================================================
+TIN NHẮN NHẮC RIÊNG — DÙNG KHI THÀNH VIÊN CHƯA VÀO REPO
+==========================================================
+
+--- Gửi riêng cho DIỄM ---
+
+Diễm ơi, repo đồ án Snake mình tạo xong rồi mà chưa thấy Diễm vào 😄
+https://github.com/tronghv77/snake-game-uit
+
+Diễm làm giúp mình 3 bước này nha, tầm 15 phút thôi:
+
+1. Tạo tài khoản GitHub: https://github.com/signup
+   ⚠️ Nhớ đăng ký bằng đúng email lekieudiem368@gmail.com
+   Vì lúc chấm điểm thầy/cô nhìn vào commit để biết ai làm gì, sai email là công của Diễm không được tính.
+
+2. Tạo xong nhắn lại username GitHub cho mình (kiểu @tenban).
+   Mình cần username mới mời Diễm vào repo được, không mời bằng email được.
+
+3. Cài 2 phần mềm này:
+   • Python (nhớ TICK ô "Add Python to PATH" lúc cài): https://www.python.org/downloads
+   • Git: https://git-scm.com/downloads
+
+Phần của Diễm là viết con rắn và miếng mồi — file snake.py và food.py.
+Hay ở chỗ phần này thuần logic, không dính đồ hoạ gì hết, nên Diễm làm xong là kiểm tra đúng/sai được ngay, không cần chờ mình với Tín.
+
+Mình đã viết sẵn mô tả chi tiết từng hàm, có gợi ý cách làm luôn:
+https://github.com/tronghv77/snake-game-uit/blob/main/docs/MO-TA-CONG-VIEC.md
+
+Chưa biết Git thì bình thường nha, có hướng dẫn từ đầu ở đây:
+https://github.com/tronghv77/snake-game-uit/blob/main/docs/HUONG-DAN-GIT.md
+
+Kẹt chỗ nào cứ chụp màn hình gửi mình 👌
+
+
+--- Gửi riêng cho TÍN ---
+
+Tín ơi, repo đồ án Snake xong rồi mà chưa thấy Tín vào nha 😄
+https://github.com/tronghv77/snake-game-uit
+
+Tín làm giúp mình 3 bước, tầm 15 phút:
+
+1. Tạo tài khoản GitHub: https://github.com/signup
+   ⚠️ Nhớ đăng ký bằng đúng email ductin0925@gmail.com
+   Lúc chấm thầy/cô nhìn commit để biết ai làm gì, sai email là công của Tín không được tính.
+
+2. Tạo xong nhắn username GitHub cho mình (kiểu @tenban).
+   Mình cần username mới mời vào repo được.
+
+3. Cài 2 phần mềm:
+   • Python (nhớ TICK ô "Add Python to PATH"): https://www.python.org/downloads
+   • Git: https://git-scm.com/downloads
+
+Phần của Tín là toàn bộ phần nhìn và nghe của game — file ui.py và config.py.
+Vẽ con rắn, vẽ mồi, làm menu, màn hình game over, chọn màu, chọn font, thêm âm thanh. Nói thẳng là phần của Tín quyết định game nhìn có ngon hay không, thầy/cô nhìn vào là ấn tượng đầu tiên luôn.
+
+Mô tả chi tiết từng việc mình viết sẵn hết rồi, có cả mấy mẹo làm đẹp:
+https://github.com/tronghv77/snake-game-uit/blob/main/docs/MO-TA-CONG-VIEC.md
+
+Chưa biết Git thì không sao, hướng dẫn từ số 0 ở đây:
+https://github.com/tronghv77/snake-game-uit/blob/main/docs/HUONG-DAN-GIT.md
+
+Có gì cứ nhắn mình 👌
